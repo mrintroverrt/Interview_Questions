@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "inital Commit"
+git branch is -M main // This is Denotes To Where are Push the code to Repo [ main or master and subranch ]
+git remote add origin [ Link of you repo ]
+git push -u origin main // This is same as perious step ]
